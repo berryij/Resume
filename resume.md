@@ -9,7 +9,9 @@ I am currently a student at Appalachain State University. I am currertly doing r
 ## Education
 BS Degree in Geography with a concentration in GIS
 Graduating Spring 2026
+
 <img src = "App.jpeg" width = "50">
+
 ## Work Experience
 - Assistant at Queen Annes County Planning and Zonning Department Jan 2022 - May 2022
 - Undergraduate Researcher at [Appalachian State](https://geo.appstate.edu/) 
